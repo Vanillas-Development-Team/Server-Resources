@@ -22,8 +22,8 @@ We have listed the [New Vanilla's World](https://discord.gg/cB6gXF5rxp) and [LOL
 ### 1: Advertising is not allowed.
 Advertising is considered drawing attention to a product, server, event (isn't limited to products, servers or events) for your own benefit. This includes more than just sending a link to another Discord server. Asking people to DM you to enter a giveaway, win prizes and more. This also include advertising social media. DM advertising is also not allowed.
 
-### 2: Swearing is not allowed unless you use #⁠epic-chat.
-This includes file names, audio and visuals in videos, images, spoilers and more. Usage of racial slurs is not allowed anywhere in the server and will result in an instant ban. You are still not allowed to use racial slurs at #epic-chat.
+### 2: Swearing in a way that would offend someone is not allowed.
+This includes file names, audio and visuals in videos, images, spoilers and more. While you may be allowed to swear, you are not allowed to insult someone or swear in a way that would offend someone. Usage of racial slurs is not allowed anywhere in the server and will result in an instant ban.
 
 ### 3: Don't misuse channels. Use every channel for their own purpose.
 The purpose of the channel is usually available in the channel description and in the pinned messages.
